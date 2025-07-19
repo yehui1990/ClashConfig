@@ -1,1 +1,1 @@
-OpenClash 完美配置
+Clash config files
