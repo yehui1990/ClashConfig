@@ -1,26 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-<<<<<<< HEAD
-=======
 # 域名后缀匹配
-# pt
-DOMAIN-SUFFIX,1ptba.com
-DOMAIN-SUFFIX,52pt.site
-DOMAIN-SUFFIX,ptlover.cc
-DOMAIN-SUFFIX,btschool.club
-DOMAIN-SUFFIX,carpt.net
-DOMAIN-SUFFIX,pt.cdfile.org
-DOMAIN-SUFFIX,cspt.cc
-DOMAIN-SUFFIX,happyfappy.org
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,ptchina.org
-DOMAIN-SUFFIX,ptfans.cc
-DOMAIN-SUFFIX,gtkpw.xyz
-DOMAIN-SUFFIX,gtk.pw
-DOMAIN-SUFFIX,ptskit.org
-DOMAIN-SUFFIX,rousi.zip
-
->>>>>>> 53a71837c813070dc18c2575517f1743f60182be
 # MyList
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
