@@ -1,5 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# 域名后缀匹配
 # pt
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,52pt.site
@@ -18,11 +19,9 @@ DOMAIN-SUFFIX,ptskit.org
 DOMAIN-SUFFIX,rousi.zip
 
 # MyList
-# 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,aerianas.top
 DOMAIN-SUFFIX,sssyun.xyz
 DOMAIN-SUFFIX,qeayr.cn
@@ -46,7 +45,6 @@ DOMAIN-SUFFIX,51zmt.top
 
 DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,bncrcloud.com
-# DOMAIN-SUFFIX,apple-bing.sbs
 DOMAIN-SUFFIX,xiaoniuyun.cc
 DOMAIN-SUFFIX,vp2.us
 DOMAIN-SUFFIX,km688.ink
@@ -94,6 +92,8 @@ IP-CIDR,219.146.1.66/32,no-resolve
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
+IP-CIDR,218.85.157.99/32,no-resolve
+IP-CIDR,218.85.152.99/32,no-resolve
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
