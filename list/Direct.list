@@ -650,11 +650,12 @@ DOMAIN-SUFFIX,zhuihd.com
 
 
 ### 添加
-DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,msn.com
 
 # pt
 DOMAIN-SUFFIX,1ptba.com
