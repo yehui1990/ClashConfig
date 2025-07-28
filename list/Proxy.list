@@ -323,6 +323,13 @@ IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,142.250.0.0/16,no-resolve
 
 # 零点云
+DOMAIN-SUFFIX,ccbbss.com
+DOMAIN-SUFFIX,nnbin.com
+DOMAIN-SUFFIX,oobbnn.com
+DOMAIN-SUFFIX,mdoos.pw
+DOMAIN-SUFFIX,vvdnn.com
+DOMAIN-SUFFIX,0dyos.com
 DOMAIN-SUFFIX,lingdian.icu
-DOMAIN-KEYWORD,zpcloud
-DOMAIN-KEYWORD,ldy
+DOMAIN-WILDCARD,zpcloud*.site
+DOMAIN-WILDCARD,ldy*.com
+DOMAIN-WILDCARD,ldy*.shop
