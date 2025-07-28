@@ -330,5 +330,5 @@ DOMAIN-SUFFIX,mdoos.pw
 DOMAIN-SUFFIX,vvdnn.com
 DOMAIN-SUFFIX,0dyos.com
 DOMAIN-SUFFIX,lingdian.icu
-DOMAIN-KEYWORD,zpcloud
-DOMAIN-SUFFIX,ldy01.com
+DOMAIN-WILDCARD,*.zpcloud*.site
+DOMAIN-WILDCARD,*.ldy*.com
